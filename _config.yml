@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://cheatslark.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: CheATSlark's Blog
+subtitle: "惜语今时真"
+author: CheATSlark
 simple_search: https://www.google.com/search
-description:
+description: "心有花田半亩，眼中桃花十里"
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -27,12 +27,13 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:title.html/
 source: source
 destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
+category_title_prefix: "分类：" #修改分类前缀
 markdown: rdiscount
 rdiscount:
   extensions:
