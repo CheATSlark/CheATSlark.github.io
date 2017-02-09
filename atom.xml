@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[CheATSlark's Blog]]></title>
   <link href="http://cheatslark.github.io/atom.xml" rel="self"/>
   <link href="http://cheatslark.github.io/"/>
-  <updated>2017-02-09T14:34:27+08:00</updated>
+  <updated>2017-02-09T15:44:01+08:00</updated>
   <id>http://cheatslark.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[CheATSlark]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
+    <title type="html"><![CDATA[哎呦，不错]]></title>
+    <link href="http://cheatslark.github.io/blog/ai-you-,bu-cuo.html/"/>
+    <updated>2017-02-09T15:02:16+08:00</updated>
+    <id>http://cheatslark.github.io/blog/ai-you-,bu-cuo</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[偶得]]></title>
-    <link href="http://cheatslark.github.io/blog/2017/02/09/ou-de/"/>
+    <link href="http://cheatslark.github.io/blog/ou-de.html/"/>
     <updated>2017-02-09T14:31:24+08:00</updated>
-    <id>http://cheatslark.github.io/blog/2017/02/09/ou-de</id>
+    <id>http://cheatslark.github.io/blog/ou-de</id>
     <content type="html"><![CDATA[<p>&ldquo;断片残章续，鳞次栉比楼。惜语今时真，聚欢别离苦。&rdquo;</p>
 ]]></content>
   </entry>
