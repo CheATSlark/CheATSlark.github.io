@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://cheatslark.github.io/atom.xml" rel="self"/>
   <link href="http://cheatslark.github.io/"/>
-  <updated>2017-02-09T13:55:45+08:00</updated>
+  <updated>2017-02-09T14:34:27+08:00</updated>
   <id>http://cheatslark.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[偶得]]></title>
+    <link href="http://cheatslark.github.io/blog/2017/02/09/ou-de/"/>
+    <updated>2017-02-09T14:31:24+08:00</updated>
+    <id>http://cheatslark.github.io/blog/2017/02/09/ou-de</id>
+    <content type="html"><![CDATA[<p>&ldquo;断片残章续，鳞次栉比楼。惜语今时真，聚欢别离苦。&rdquo;</p>
+]]></content>
+  </entry>
   
 </feed>
