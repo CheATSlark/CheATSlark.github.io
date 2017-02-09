@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://cheatslark.github.io/sitemap.xml 
