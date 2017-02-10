@@ -4,7 +4,7 @@
   <title><![CDATA[CheATSlark's Blog]]></title>
   <link href="http://cheatslark.github.io/atom.xml" rel="self"/>
   <link href="http://cheatslark.github.io/"/>
-  <updated>2017-02-10T10:47:32+08:00</updated>
+  <updated>2017-02-10T11:28:41+08:00</updated>
   <id>http://cheatslark.github.io/</id>
   <author>
     <name><![CDATA[CheATSlark]]></name>
@@ -14,8 +14,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[多台作战计划二]]></title>
+    <link href="http://cheatslark.github.io/blog/duo-tai-zuo-zhan-ji-hua-er.html/"/>
+    <updated>2017-02-10T11:17:28+08:00</updated>
+    <id>http://cheatslark.github.io/blog/duo-tai-zuo-zhan-ji-hua-er</id>
+    <content type="html"><![CDATA[<p>“多机协作计划一的博客已经夭折，原因是本来对环境的部署不太明白，在加上用git去修改冲突，也不知道怎么甄别对错，造成环境搭建的时候，不知道如何是好，开始在另一台电脑上重新下载了octopress,发现原本已经上传了git，没必要重新下载，又删了重新，clone。因为第一次用git，又发现不能认证通过的问题，找到是SSH Key的问题，重新弄了下。 然后clone 下来，建了一个新bolg，提交。又遇到不能提交的问题。摆弄了好久，能提交了，又发现提交冲突的问题。然后就胡乱的修了一下bug，能提交通过了，但是部署之后，又发现点击不能正常的跳转blog 的内容，就又是回滚，又是改错的弄了好久”</p>
+
+<p>“发现经书虽在眼前，这样从什么都不懂的状态下，摸索，道路真是艰难曲折。这第二次的提交已经有了经验，应该是可以完成的”`</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[哎呦，不错]]></title>
-    <link href="http://cheatslark.github.io/blog/ai-you-,bu-cuo.html"/>
+    <link href="http://cheatslark.github.io/blog/ai-you-,bu-cuo.html/"/>
     <updated>2017-02-09T15:02:16+08:00</updated>
     <id>http://cheatslark.github.io/blog/ai-you-,bu-cuo</id>
     <content type="html"><![CDATA[
@@ -24,7 +35,7 @@
   
   <entry>
     <title type="html"><![CDATA[偶得]]></title>
-    <link href="http://cheatslark.github.io/blog/ou-de.html"/>
+    <link href="http://cheatslark.github.io/blog/ou-de.html/"/>
     <updated>2017-02-09T14:31:24+08:00</updated>
     <id>http://cheatslark.github.io/blog/ou-de</id>
     <content type="html"><![CDATA[<p>“断片残章续，鳞次栉比楼。惜语今时真，聚欢别离苦。”</p>
